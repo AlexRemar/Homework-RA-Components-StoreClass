@@ -1,0 +1,11 @@
+{
+  "short_name": "RA-hw 1-components",
+  "name": "RA-hw 1-components 1-store-func",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]  
+}
